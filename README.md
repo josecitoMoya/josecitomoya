@@ -11,10 +11,10 @@
 
 - 📫 How to reach me **jose_moya@live.com.ar**
 
-- 🌱 I’m currently learning **Java** <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" **alt="java" width="40" height="40"/>
+- 🌱 I’m currently learning **Java**
 
 
-<div align="left">
+<div align="center">
     <h3>🔨 Languages and Tools:</h3>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
