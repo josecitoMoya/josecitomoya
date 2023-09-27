@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jose_moya@live.com.ar**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Java**
 
 
 <div align="left">
