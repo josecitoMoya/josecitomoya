@@ -1,17 +1,19 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm joseMoya</h1>
-    <h3 align="center">A passionate fullstack web developer from Argentina. I love avocato.</h3>
+    <h1 align="center">👋 Hi 👋, I'm joseMoya 😃</h1>
+    <h3 align="center">I'm not just another developer who loves avocados 🥑, but... I've also been involved in logistics 🚀 and insurance 👐.</h3>
 </div>
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack web developer
+- 📝 I currently work as an independent developer and as an insurance producer
 
-- 📫 How to reach me **jose_moya@live.com.ar**
+- 📫 You can reach me by email at **jose_moya@live.com.ar**
 
-- 🌱 I’m currently learning **Java**
+- 📱 or on my WhatsApp at **+543876109748**.
+
+- 🌱 I’m currently learning **Nextjs**
 
 
 <div align="center">
