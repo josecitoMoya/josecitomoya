@@ -33,7 +33,7 @@
 </div>
 
 ---
-<div align='center'>
+<div align='center' padding=5>
 ### 📊 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=josecitomoya&theme=onedark)](https://git.io/streak-stats)
