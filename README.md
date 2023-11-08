@@ -9,7 +9,8 @@
 
 - 📝 I currently work as an independent developer and as an insurance producer
 
-- 📫 You can reach me by email at **jose_moya@live.com.ar**
+- 📫 You can reach me by <a href="mailto:jose_moya@live.com.ar">email</a>
+
 
 - 📱 or on my    <a href="https://wa.link/972qgp">WhatsApp</a>
 
