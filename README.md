@@ -11,7 +11,7 @@
 
 - 📫 You can reach me by email at **jose_moya@live.com.ar**
 
-- 📱 or on my WhatsApp at **+543876109748**.
+- 📱 or on my    <a href="https://wa.link/972qgp">WhatsApp</a>
 
 - 🌱 I’m currently learning **Nextjs**
 
