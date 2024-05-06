@@ -14,7 +14,7 @@
 
 - 📱 or on my    <a href="https://wa.link/972qgp">WhatsApp</a>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Python**
 
 
 <div align="center">
